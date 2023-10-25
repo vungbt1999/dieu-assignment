@@ -1,0 +1,50 @@
+/* CSS for styling the entire page */
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f0f0f0;
+  padding: 20px;
+}
+
+/* Heading styles */
+.heading-style {
+  color: green;
+  font-size: 24px;
+  font-weight: bold;
+}
+
+/* Paragraph styles */
+.paragraph-style {
+  color: #555;
+  font-size: 16px;
+}
+
+/* Link styles */
+.link-style {
+  color: #0074e4;
+  text-decoration: none;
+}
+
+.link-style:hover {
+  text-decoration: underline;
+}
+
+/* Section styles */
+.section {
+  background-color: #fff;
+  border: 1px solid #ccc;
+  margin: 20px 0;
+  padding: 10px;
+}
+
+/* List styles */
+ul, ol {
+  margin-left: 20px;
+}
+
+/* Video and audio styles */
+.video-style, .audio-style {
+  width: 100%;
+  margin: 10px 0;
+  background-color: #fff;
+  padding: 10px;
+}
